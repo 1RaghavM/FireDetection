@@ -1,0 +1,8 @@
+
+Benchmarks complete for train/weights/best.pt on data/dataset.yaml at imgsz=640 (50.80s)
+Benchmarks legend:  - ✅ Success  - ❎ Export passed but validation failed  - ❌️ Export failed
++--------------------------------------------------------------------------------------------+
+|     Format     Status❔   Size (MB)   metrics/mAP50-95(B)   Inference time (ms/im)   FPS   |
++============================================================================================+
+| 1   OpenVINO   ✅         3.2         0.6367                13.58                    73.61 |
++--------------------------------------------------------------------------------------------+
